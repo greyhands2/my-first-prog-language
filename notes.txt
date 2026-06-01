@@ -1,0 +1,2 @@
+The flow of how we approach adding features to our language => define AST nodes, write tests, make tests pass by writing
+ parsing code
